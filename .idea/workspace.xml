@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1bfeb7b-bc8b-4a79-8e91-7a8291bb7354" name="Default" comment="change file name">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="c1bfeb7b-bc8b-4a79-8e91-7a8291bb7354" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list id="aea331b3-cbc0-4a21-ad08-6742f0c49dcb" name="Rejected commit: Default" comment="change file name">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsTestDriver.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/hello_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/object_test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,15 +108,6 @@
               <folding>
                 <element signature="e#0#156#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Asserts.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JsTestDriver/lib/JsTestDriver-plugin.jar!/com/google/jstestdriver/idea/assertFramework/jstd/jsSrc/Asserts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="9" selection-start="3171" selection-end="3171" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -439,7 +419,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c1bfeb7b-bc8b-4a79-8e91-7a8291bb7354" name="Default" comment="" />
-      <changelist id="aea331b3-cbc0-4a21-ad08-6742f0c49dcb" name="Rejected commit: Default" comment="change file name" />
       <created>1345798180063</created>
       <updated>1345798180063</updated>
     </task>
@@ -447,7 +426,15 @@
       <created>1345798551823</created>
       <updated>1345798551823</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change file name">
+      <created>1346383771662</created>
+      <updated>1346383771662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change file name">
+      <created>1346383786560</created>
+      <updated>1346383786560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -582,13 +569,6 @@
     <entry file="file://$PROJECT_DIR$/src/Object.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="9" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="0.33202356">
           <folding />
         </state>
       </provider>
