@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1bfeb7b-bc8b-4a79-8e91-7a8291bb7354" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\HelloWorld.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\dictionaries\yech.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,24 +46,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsLibraryMappings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/jsLibraryMappings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="misc.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="jsTestDriver.conf" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jsTestDriver.conf">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,7 +58,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="9" selection-start="1990" selection-end="1990" vertical-scroll-proportion="0.7553398">
+            <state line="165" column="9" selection-start="1990" selection-end="1990" vertical-scroll-proportion="0.76492536">
               <folding />
             </state>
           </provider>
@@ -253,8 +243,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="96" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="103" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="95" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="102" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
@@ -264,9 +254,9 @@
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="103" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="102" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="896" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="896" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="886" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="103" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="103" />
@@ -434,7 +424,11 @@
       <created>1346383786560</created>
       <updated>1346383786560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change file name">
+      <created>1346383897524</created>
+      <updated>1346383897524</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -580,27 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/jsLibraryMappings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -617,7 +590,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="9" selection-start="1990" selection-end="1990" vertical-scroll-proportion="0.7553398">
+        <state line="165" column="9" selection-start="1990" selection-end="1990" vertical-scroll-proportion="0.76492536">
           <folding />
         </state>
       </provider>
