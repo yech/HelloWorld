@@ -5,6 +5,25 @@
     <title></title>
 </head>
 <body>
+<script type="text/javascript">
+    var SuperType =function(){
+        this.p1 = true;
+    };
 
+
+    var s = new SuperType;
+
+    var SubType = function(){
+        SuperType.call(this);
+        this.p2 = false;
+    };
+
+    SubType.prototype = new SuperType;
+    var s2 = new SubType;
+
+    console.log(s);
+    console.log(s2);
+
+</script>
 </body>
 </html>
