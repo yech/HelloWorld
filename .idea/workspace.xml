@@ -4,10 +4,7 @@
     <list default="true" id="c1bfeb7b-bc8b-4a79-8e91-7a8291bb7354" name="Default" comment="">
       <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\workspace.xml" afterPath="" />
     </list>
-    <list id="6a190398-f0cb-4b6b-ab09-f11cb67d0bfc" name="New changelist" comment="New changelist">
-      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\dictionaries\yech.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\projects\GitHub\HelloWorld\.idea\scopes\scope_settings.xml" afterPath="" />
-    </list>
+    <list id="6a190398-f0cb-4b6b-ab09-f11cb67d0bfc" name="New changelist" comment="New changelist" />
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,7 +50,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="7" selection-start="1988" selection-end="1988" vertical-scroll-proportion="1.3028038">
+            <state line="165" column="47" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.76448596">
               <folding />
             </state>
           </provider>
@@ -437,7 +434,11 @@
       <created>1346385078774</created>
       <updated>1346385078774</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change file name">
+      <created>1346385294438</created>
+      <updated>1346385294438</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -599,7 +600,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="7" selection-start="1988" selection-end="1988" vertical-scroll-proportion="1.3028038">
+        <state line="165" column="47" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.76448596">
           <folding />
         </state>
       </provider>
